@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+
+
+    <item
+        android:drawable="@drawable/coracao"
+        android:duration="150"/>
+    <item
+        android:drawable="@drawable/coracao_cereja"
+        android:duration="150"/>
+    <item
+        android:drawable="@drawable/cereja"
+        android:duration="150"/>
+    <item
+        android:drawable="@drawable/cereja_diamante"
+        android:duration="150"/>
+    <item
+        android:drawable="@drawable/diamante"
+        android:duration="150"/>
+    <item
+        android:drawable="@drawable/diamante_espadilha"
+        android:duration="150"/>
+    <item
+        android:drawable="@drawable/espadilha"
+        android:duration="150"/>
+    <item
+        android:drawable="@drawable/espadilha_sete"
+        android:duration="150"/>
+
+    <item
+        android:drawable="@drawable/sete"
+        android:duration="150"/>
+    <item
+        android:drawable="@drawable/sete_coracao"
+        android:duration="150"/>
+
+
+</animation-list>
